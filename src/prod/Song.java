@@ -1,5 +1,6 @@
+package prod;
+
 import java.time.Duration;
-import java.time.LocalTime;
 import java.util.Objects;
 
 public class Song {

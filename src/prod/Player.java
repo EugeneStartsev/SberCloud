@@ -1,3 +1,5 @@
+package prod;
+
 import java.time.Duration;
 import java.time.LocalTime;
 

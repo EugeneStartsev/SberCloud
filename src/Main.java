@@ -1,3 +1,6 @@
+import prod.Player;
+import prod.Song;
+
 import java.time.Duration;
 import java.util.Scanner;
 
